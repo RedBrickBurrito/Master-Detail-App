@@ -136,7 +136,7 @@
                                 <rect key="frame" x="20" y="101" width="45" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
-                                <nil key="textColor"/>
+                                <color key="textColor" red="0.9599711689" green="1" blue="0.98770117580000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LtP-WG-Unk">
@@ -144,7 +144,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
-                                        <mutableString key="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tellus sem, auctor vitae eros ac, molestie mollis mi. Sed euismod quam at erat pharetra vestibulum. Nulla volutpat nisl vitae mauris vestibulum tempor. In hac habitasse platea dictumst. Maecenas ultricies tortor eget rutrum sagittis. Integer consectetur nisl id est facilisis egestas. Nulla eu lorem quis velit sagittis maximus quis nec risus. Mauris iaculis leo odio, nec viverra augue ornare sit amet. Vivamus quis libero imperdiet, eleifend nibh eu, finibus nisl. Integer tincidunt eros sit amet diam iaculis, eleifend sodales tellus scelerisque. Etiam sodales dui eros. Donec iaculis lectus in varius varius. Vestibulum tincidunt volutpat arcu, vel finibus sapien facilisis at. Curabitur at dui auctor, convallis lorem id, venenatis nulla. Nunc id sapien id tortor rhoncus maximus non eget ex. </mutableString>
+                                        <string key="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tellus sem, auctor vitae eros ac, molestie mollis mi. Sed euismod quam at erat pharetra vestibulum. Nulla volutpat nisl vitae mauris vestibulum tempor. In hac habitasse platea dictumst. Maecenas ultricies tortor eget rutrum sagittis. Integer consectetur nisl id est facilisis egestas. Nulla eu lorem quis velit sagittis maximus quis nec risus. Mauris iaculis leo odio, nec viverra augue ornare sit amet. Vivamus quis libero imperdiet, eleifend nibh eu, finibus nisl. Integer tincidunt eros sit amet diam iaculis, eleifend sodales tellus scelerisque. Etiam sodales dui eros. Donec iaculis lectus in varius varius. Vestibulum tincidunt volutpat arcu, vel finibus sapien facilisis at. Curabitur at dui auctor, convallis lorem id, venenatis nulla. Nunc id sapien id tortor rhoncus maximus non eget ex. </string>
                                         <attributes>
                                             <color key="NSColor" red="0.9599711688586281" green="1" blue="0.98770117577445704" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <font key="NSFont" metaFont="system" size="17"/>
